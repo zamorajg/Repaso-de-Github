@@ -1,5 +1,7 @@
 <h1>Repaso de Sentencias Nuevas en Github</h1>
 
+<img width="409" height="409" alt="ImagenGit" src="https://github.com/user-attachments/assets/e2dd0df6-9f9d-40ea-98e0-f566c2d65b31" />
+
 -- Practicas iniciales del uso de GitHub
 
 -- Cada vez que se realiza un commit se guarda los cambios
