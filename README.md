@@ -25,3 +25,7 @@ Para ejecutar el sistema debes poner esto es didactico
 ```npm instal react ```
 
 -- Si quiero añadir un colaborador a mi proyecto le doy setting luego en el menu de la derecha busco donde diga colaboradores
+
+-- Para clonar mi proyecto que esta en github a mi local desde la web debo copiar la opcion que dce code y desde alli indico en que formato hare el clone si ssh , https u otro.
+
+--Tambien puedo crar toquen para acceso a my projecto en setting pero el general selecciono developers settings
