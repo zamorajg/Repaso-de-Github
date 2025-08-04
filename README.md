@@ -14,3 +14,7 @@
 
 -- Para agregar una imagen con buscarla en el explorador y arrastrarla directamente a este archivo ya se añade.
 
+--Inclusion de los Badge: Ver esta URL: https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github 
+
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
