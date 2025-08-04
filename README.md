@@ -20,3 +20,6 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 Resultado:
+
+Para ejecutar el sistema debes poner esto es didactico
+```npm instal react ```
