@@ -23,3 +23,5 @@ Resultado:
 
 Para ejecutar el sistema debes poner esto es didactico
 ```npm instal react ```
+
+-- Si quiero añadir un colaborador a mi proyecto le doy setting luego en el menu de la derecha busco donde diga colaboradores
